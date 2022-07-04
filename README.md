@@ -14,24 +14,26 @@
   </a>  
  
 </div>
-Guiherme Bellia aka Slashdot aka @postal5555 👋
   
 <div id="profile" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" >
 </div>
+
 ---
-<h1>👨‍💻: About Me :</h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working for The Free Software Foundation creating templates for their mailing list 📬 and translating content from English 🇺🇲 to Portuguese 🇧🇷.
+<h2>👽 About Me 👽</h2>
+<h2>I am a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>.
 
-- :floppy_disk: I'm also a Free Lancer Full Stack Developer working mostly with small and medium sized companies at Sorocaba-São Paulo. My main actvities are creating Landing Pages (Wordpress + Elementor or React Native) and e-Commerces (WooCommerce and Shopify) 🤑.
+- 💻 I’m working for The Free Software Foundation creating templates for their mailing list 📬 and translating content from English 🇺🇲 to Portuguese 🇧🇷.
 
-- :seedling: I'm particularlyt interested in like GNU/Linux, Open Source, Data Structures, Semantics, Cryptocurrencies, Blockchains and Decentrlized Finances (DeFi) 💹. I HODL BTC, ETH, LINK, AXS, BNB and MATIC.
+- 💾 I'm also a Free Lancer Full Stack Developer working mostly with small and medium sized companies at Sorocaba-São Paulo. My main actvities are creating Landing Pages (Wordpress + Elementor or React Native) and e-Commerces (WooCommerce and Shopify) 🤑.
 
-- :zap: In my free time, I play Dota2, Gods Unchained and Axie Infinity (Legend+ tiers). I'm also a huge Marvel fan 🦸
+- 🖱️ I'm particularlyt interested in GNU/Linux, Open Source, Data Structures, Semantics, Cryptocurrencies, Blockchains and Decentrlized Finances (DeFi) 💹. I HODL BTC, ETH, LINK, AXS, BNB and MATIC.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 🎮 In my free time, I play Dota2, Gods Unchained and Axie Infinity (Legend+ tiers). I'm also a huge Marvel fan 📚
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebellia/)
+
 
 
 
