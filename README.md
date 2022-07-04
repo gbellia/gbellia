@@ -12,9 +12,9 @@
   <a href="https://www.instagram.com/glm.dev/">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   </a>  
-  ### Guiherme Bellia aka Slashdot aka @postal5555 👋
+ 
 </div>
-
+ ### Guiherme Bellia aka Slashdot aka @postal5555 👋
   
 <div id="profile" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
