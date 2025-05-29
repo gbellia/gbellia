@@ -27,7 +27,7 @@
 
 - 💻 I’m working for The Free Software Foundation creating templates for their mailing list 📬 and translating content from English 🇺🇲 to Portuguese 🇧🇷.
 
-- 💾 I'm also a Free Lancer Full Stack Developer working mostly with small and medium sized companies at Sorocaba-São Paulo. My main actvities are creating Landing Pages (Wordpress + Elementor or React Native) and e-Commerces (WooCommerce and Shopify) 🤑.
+- 💾 I'm also a Free Lancer Full Stack Developer working mostly with small and medium sized companies at Sorocaba-São Paulo. My main actvities are creating Landing Pages (Wordpress + Elementor or React ) and e-Commerces (WooCommerce and Shopify) 🤑.
 
 - 🖱️ I'm particularlyt interested in GNU/Linux, Open Source, Data Structures, Semantics, Cryptocurrencies, Blockchains and Decentrlized Finances (DeFi) 💹. I HODL BTC, ETH, LINK, AXS, BNB and MATIC.
 
